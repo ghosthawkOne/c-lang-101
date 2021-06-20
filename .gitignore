@@ -1,0 +1,5 @@
+# Ignore the cc/gcc build output files
+*.out
+
+# Ignore the .vscode directory
+.vscode
